@@ -1,4 +1,4 @@
-# fixedgs++
+# fixed gs++
 ## GS++ would always crash on load for me, so I decided to fix it and upload the jar here.
 
 ![Static Badge](https://img.shields.io/badge/Made%20By%20-%20Wizard_11%20-%20purple)
