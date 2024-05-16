@@ -16,8 +16,7 @@ public static void disableJndiManager() {
 Enjoy!
 
 > Credits to TechAle for making GS++
+> Also, thanks to 1nject! Check out [League](https://github.com/YsnKey/Leaguemadedev), the best addon ever made for meteor!
 
 
 Check out some of my other projects, like my [1.16-1.20 client archive](https://github.com/AGENTISNUM1/1.16-1.20-client-archive)
-
-> Also, thanks to 1nject! Check out [League](https://github.com/YsnKey/Leaguemadedev), the best addon ever made for meteor!
