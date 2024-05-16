@@ -1,4 +1,5 @@
 # fixed gs++
+
 ## GS++ would always crash on load for me, so I decided to fix it and upload the jar here.
 
 ![Static Badge](https://img.shields.io/badge/Made%20By%20-%20Wizard_11%20-%20purple)
@@ -16,6 +17,7 @@ public static void disableJndiManager() {
 Enjoy!
 
 > Credits to TechAle for making GS++
+
 > Also, thanks to 1nject! Check out [League](https://github.com/YsnKey/Leaguemadedev), the best addon ever made for meteor!
 
 
