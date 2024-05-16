@@ -19,3 +19,5 @@ Enjoy!
 
 
 Check out some of my other projects, like my [1.16-1.20 client archive](https://github.com/AGENTISNUM1/1.16-1.20-client-archive)
+
+> Also, thanks to 1nject! Check out [League](https://github.com/YsnKey/Leaguemadedev), the best addon ever made for meteor!
